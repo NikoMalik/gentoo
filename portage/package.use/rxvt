@@ -1,0 +1,1 @@
+x11-terms/rxvt-unicode -startup-notification 256-color unicode3 iso14755 gdk-pixbuf perl

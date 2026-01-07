@@ -1,0 +1,1 @@
+app-editors/emacs -acct-group/mail-0-r3:gentoo -mailutils  tree-sitter harfbuzz

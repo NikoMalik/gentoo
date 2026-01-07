@@ -1,0 +1,6 @@
+MESON_ARGS="-Dhyprcursor_enable=false"
+
+CFLAGS="-march=native -O3 -pipe  -flto -ffunction-sections -fdata-sections"
+CXXFLAGS="${CFLAGS}"
+
+

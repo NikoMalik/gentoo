@@ -1,0 +1,4 @@
+x11-base/xorg-server xvfb 
+# required by www-client/zen-browser-9999::niko-overlays
+# required by zen-browser (argument)
+>=net-libs/nodejs-22.13.1 npm

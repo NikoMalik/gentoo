@@ -1,0 +1,12 @@
+app-editors/vim -X
+# required by dev-libs/elfutils-0.193::gentoo[lzma]
+# required by dev-util/pahole-1.30::gentoo
+# required by sys-kernel/gentoo-kernel-bin-6.12.41::gentoo
+# required by virtual/dist-kernel-6.12.41::gentoo
+# required by x11-drivers/nvidia-drivers-570.181::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-arch/xz-utils-5.8.1-r1 abi_x86_32
+# required by games-util/ProtonUp-Qt-2.13.0::guru
+# required by ProtonUp-Qt (argument)
+>=dev-python/pyside-6.9.3 uitools

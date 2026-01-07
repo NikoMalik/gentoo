@@ -1,0 +1,5 @@
+x11-libs/libxcb doc
+
+app-text/doxygen dot
+
+media-libs/gd fontconfig

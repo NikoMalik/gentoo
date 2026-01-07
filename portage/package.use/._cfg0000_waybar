@@ -1,0 +1,8 @@
+gui-apps/waybar wifi tray -upower -niri
+# required by net-libs/nghttp2-1.65.0-r2::gentoo[jemalloc]
+# required by net-misc/curl-8.16.0-r1::gentoo[http2]
+# required by dev-lang/rust-bin-1.89.0::gentoo
+# required by sys-apps/fd-10.3.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/jemalloc-5.3.0-r1 abi_x86_32

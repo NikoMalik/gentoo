@@ -1,0 +1,104 @@
+x11-terms/alacritty ~amd64
+dev-lang/zig ~amd64
+app-eselect/eselect-zig ~amd64
+dev-lang/zig-bin ~amd64
+net-libs/mbedtls ~amd64
+net-libs/tdlib ~amd64
+gui-apps/wlr-randr ~amd64
+games-util/game-device-udev-rules
+sys-libs/libudev-compat
+games-util/steam-launcher ~amd64
+sys-libs/gdbm ~amd64
+sys-apps/lact ~amd64
+dev-util/nvidia-cuda-toolkit ~amd64
+gui-libs/xdg-desktop-portal-wlr ~amd64
+gui-libs/xdg-desktop-portal-hyprland ~amd64
+dev-cpp/sdbus-c++ ~amd64
+
+media-video/wlrobs ~amd64
+
+sys-fs/ncdu ~amd64
+
+media-video/obs-studio ~amd64
+media-gfx/flameshot ~amd64
+media-gfx/qimgv ~amd64
+dev-libs/libutf8proc ~amd64
+
+
+gui-apps/xwayland-satellite **
+gui-wm/niri **
+gui-libs/egl-wayland2 **
+sys-devel/wild **
+dev-libs/libayatana-appindicator-glib ~amd64
+www-client/zen-browser ~amd64
+media-video/mpv ~amd64
+gui-libs/wlroots ~amd64
+app-editors/helix **
+media-fonts/hermit ~amd64
+net-im/discord ~amd64
+
+
+x11-apps/xcur2png ~amd64
+gui-libs/gtk4-layer-shell ~amd64
+
+app-misc/nwg-look ~amd64
+
+net-misc/hurl ~amd64
+sys-auth/hyprpolkitagent **
+media-libs/nvidia-vaapi-driver ~amd64
+dev-util/rustup ~amd64
+
+gui-wm/hyprland **
+
+games-util/ProtonUp-Qt ~amd64
+app-editors/logseq-desktop-bin ~amd64
+gui-apps/fuzzel ~amd64
+net-im/telegram-desktop ~amd64
+
+games-util/gamemode ~amd64
+app-editors/neovim ~amd64
+dev-libs/tree-sitter ~amd64
+dev-libs/tree-sitter* ~amd64
+
+dev-python/steam ~amd64
+gui-libs/aquamarine ~amd64
+gui-libs/hyprutils ~amd64
+dev-util/hyprwayland-scanner ~amd64
+
+=sys-devel/gcc-15.2.0 ~amd64
+sys-devel/mold **
+
+
+app-misc/yazi ~amd64
+
+dev-lang/ghc ~amd64
+
+dev-db/sqlcl-bin ~amd64
+
+gui-apps/foot **
+
+
+www-client/zen-bin ~amd64
+sys-process/rtirq ~amd64
+
+x11-terms/ghostty ~amd64
+x11-terms/ghostty-terminfo ~amd64
+gui-wm/gamescope **
+media-libs/vkroots ~amd64
+=x11-drivers/nvidia-drivers-580.105.08 ~amd64
+=gui-libs/egl-wayland-9999 **
+www-client/firefox ~amd64
+dev-lang/zig ~amd64
+dev-vcs/git ~amd64
+app-misc/tmux **
+
+
+
+
+x11-terms/wezterm ~amd64
+
+www-client/zen-bin ~amd64
+
+dev-cpp/cld3 ~amd64
+dev-libs/qr-code-generator:= ~amd64
+dev-cpp/expected ~amd64
