@@ -1,0 +1,4 @@
+x11-libs/gtk vulkan cups
+x11-libs/gtk+  cups
+app-crypt/gcr gtk
+dev-libs/libportal gtk

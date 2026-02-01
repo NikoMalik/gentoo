@@ -141,4 +141,4 @@ gui-apps/waybar wifi tray -upower -niri
 # required by app-emulation/wine-vanilla-10.0-r2::gentoo[gstreamer]
 # required by virtual/wine-0-r11::gentoo
 # required by wine (argument)
-=media-sound/cdparanoia-3.10.2-r8 abi_x86_32
+>=media-sound/cdparanoia-3.10.2-r8 abi_x86_32

@@ -1,0 +1,15 @@
+x11-base/xorg-server xvfb 
+x11-base/xwayland libei
+# required by gnome-base/nautilus-48.4.1-r1::gentoo
+# required by gnome-extra/sushi-46.0::gentoo
+>=dev-libs/libportal-0.9.1 gtk
+# required by gnome-base/gnome-keyring-48.0-r1::gentoo
+# required by virtual/secret-service-0-r1::gentoo
+# required by app-crypt/libsecret-0.21.7::gentoo
+# required by app-crypt/gcr-4.4.0.1-r1::gentoo
+# required by gnome-base/gvfs-1.56.1-r3::gentoo
+# required by app-text/evince-48.1::gentoo
+# required by gnome-extra/sushi-46.0::gentoo
+# required by gnome-base/nautilus-48.4.1-r1::gentoo[previewer]
+# required by gnome-base/nautilus (argument)
+>=app-crypt/gcr-3.41.2-r2:0 gtk

@@ -1,1 +1,1 @@
-media-video/ffmpeg x264 x265 nvenc cuda codec2 vdpau cairo zeromq opencl  shaderc  jpegxl opengl vaapi zimq
+media-video/ffmpeg vulkan x264 x265 nvenc cuda codec2 vdpau cairo zeromq opencl  shaderc  jpegxl opengl vaapi zimq sdl svg  -gnutls

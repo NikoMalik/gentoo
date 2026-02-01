@@ -1,1 +1,9 @@
 >=dev-python/pyqt6-6.8.1 webchannel
+dev-qt/qtgui egl vulkan svg
+dev-qt/qtbase icu vulkan svg gtk cups
+dev-qt/qt5compat icu
+dev-qt/qimgv exif
+dev-qt/qtdeclarative vulkan svg
+dev-qt/qtwayland vulkan
+dev-qt/qtwidgets gtk
+dev-qt/qtmultimedia vulkan qvml

@@ -1,4 +1,4 @@
-media-video/obs-studio lua nvenc pulseaudio speex v4l
+media-video/obs-studio lua nvenc pulseaudio speex v4l truetype
 media-video/ffmpeg nvenc opus x264
 
 

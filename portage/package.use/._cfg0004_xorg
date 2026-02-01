@@ -1,0 +1,6 @@
+x11-base/xorg-server xvfb 
+# required by dev-cpp/gtkmm-3.24.10::gentoo
+# required by sys-block/gparted-1.6.0-r2::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gtk+-3.24.51 -X

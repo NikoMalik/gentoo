@@ -44,3 +44,7 @@ media-libs/shaders abi_x86_32
 dev-util/glslang abi_x86_32
 media-libs/shaderc abi_x86_32
 virtual/zlib abi_x86_32
+dev-libs/libbsd abi_x86_32
+app-crypt/libmd abi_x86_32
+gui-libs/egl-wayland2 abi_x86_32
+gui-libs/egl-wayland abi_x86_32

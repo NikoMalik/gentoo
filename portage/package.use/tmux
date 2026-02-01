@@ -1,1 +1,1 @@
-app-misc/tmux jemalloc sixel
+app-misc/tmux tcmalloc sixel
